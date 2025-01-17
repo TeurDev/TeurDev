@@ -1,5 +1,6 @@
 ## Hi there 👋
-![Mona Whisper](https://github.com/images/mona-whisper.gif)
+<img src="https://github.com/images/mona-whisper.gif" alt="Mona Whisper" width="50">
+
 <!--
 **TeurDev/TeurDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
