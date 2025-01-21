@@ -8,7 +8,7 @@
 <h3>🚀About me</h3>
 
 I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
-<img align="right" width=300px alt="Unicorn" src="https://github.githubassets.com/images/mona-loading-dark.gif" />
+
 - 🌱 I’m currently learning ...
   - Java
   - Kotin
@@ -63,7 +63,9 @@ I am a computer engineering student, currently halfway through my degree. I am e
     </p>
   </div>
 </details>
-
+<div align="center">
+  <img align="center" width=50px alt="Unicorn" src="https://github.githubassets.com/images/mona-loading-dark.gif" />
+</div>
 
 
 
