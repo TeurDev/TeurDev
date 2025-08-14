@@ -11,8 +11,9 @@ I am a computer engineering student, currently halfway through my degree. I am e
 
 - 🌱 I’m currently learning ...
   - Java
-  - Kotin
-  - Node.js
+  - React Native
+  - C/C++
+  - MySQL
     <br>
 
 - 🌐 Languages
