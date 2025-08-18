@@ -11,7 +11,7 @@ I’m studying Telecommunications Engineering while also learning front-end and 
 I like learning, experimenting, and building projects that are useful, creative, and a bit different.
 
 
-- 🌱 I’m currently learning ...
+- 🌱 Technologies I Currently Use...
   - Java
   - React Native
   - Typescript
